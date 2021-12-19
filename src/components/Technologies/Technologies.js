@@ -19,8 +19,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            React.js
+            React.js <br />
+            Styled Components<br />
+            Redux and Redux Toolkit
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,22 +32,15 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Node <br />
+            Mongo Db<br />
+            Postman (Api testing) <br/>
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <picture>
-          <DiZend size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            tools like Figma
-          </ListParagraph>
-        </ListContainer>
+       
+        
       </ListItem>
     </List>
     <SectionDivider colorAlt />
