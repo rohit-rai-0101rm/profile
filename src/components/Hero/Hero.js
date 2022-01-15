@@ -12,10 +12,9 @@ const Hero = () => (
           My Personal Portfolio
       </SectionTitle>
       <SectionText>
-      The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
 
       </SectionText>
-      <Button onClick={()=>{window.location='https://google.com'}}>Learn More</Button>
+      <Button onClick={()=>{window.location='https://github.com/rohit-rai-0101rm'}}>Learn More</Button>
     </LeftSection>
   </Section>
 
